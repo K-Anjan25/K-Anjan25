@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- 📫 How to reach me **[Email/Social link]** -->
 
 ### 🛠️ Tech Stack
-**Languages:** HTML, CSS, JavaScript, Python
+**Languages:** HTML, CSS, JavaScript, Python, java
 **Frameworks:** React, Node.js, Express
 **Tools:** Git, Docker, AWS
 
