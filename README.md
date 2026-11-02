@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 style="text-align: center;">Hi there! I'm Anjan Kyama 👋</h2>
 
-# Hi there! I'm Anjan Kyama 👋
+<!-- ## Hi there! I'm Anjan Kyama 👋 -->
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **AI Threat Detector**
