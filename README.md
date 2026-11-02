@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **K-Anjan25/K-Anjan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! I'm Anjan Kuama 👋
+# Hi there! I'm Anjan Kyama 👋
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **AI Threat Detector**
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 **Frameworks:** React, Node.js, Express
 **Tools:** Git, Docker, AWS
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://vercel.app)
+<-- ### 📊 My GitHub Stats
+![Your GitHub Stats](https://vercel.app) -->
 
