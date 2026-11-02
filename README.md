@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there! I'm Anjan Kuama 👋
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **AI Threat Detector**
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **Python and web development**
+<-- 📫 How to reach me **[Email/Social link]** -->
+
+### 🛠️ Tech Stack
+**Languages:** HTML, CSS, JavaScript, Python
+**Frameworks:** React, Node.js, Express
+**Tools:** Git, Docker, AWS
+
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://vercel.app)
+
